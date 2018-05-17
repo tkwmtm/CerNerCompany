@@ -46,7 +46,6 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 # Special thanks to
 
 [@AmirBagheri](https://github.com/CodeLua)
-
 * * *
 
 # Developers!
@@ -57,4 +56,5 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://t.me/BeyondTeam)
+[@dwzhS6V7](https://t.me/
+thdwzhS6V7)
